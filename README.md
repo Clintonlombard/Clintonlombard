@@ -8,7 +8,7 @@ I'm a software developer intern. I'm passionate about creating beautiful and use
 
 ❤️ I love writing HTML and CSS, and building fun experiments on type-level and also love doing the technical side of the work.
 
-📫 How to reach me ** Email: Lombardclinton40@gmail.com & Whatsapp +27 617128304.
+📫 How to reach me ** Email: Lombardclinton40@gmail.com, linkedin: https://www.linkedin.com/feed/ & Whatsapp: +27 617128304.
 
 👋 Hi, Clinton Lombard
 👀 I’m interested in Blockchain development & System development
