@@ -1,11 +1,3 @@
-
-👋 Hi, Clinton Lombard
-👀 I’m interested in Blockchain development & System development
-💞️ I’m looking to collaborate on any Forex trading and blockchain related projects
-😄 Pronouns: ...
-⚡ Fun fact: ...
--->
-
 A passionate Front-End developer from South Africa.
 
 About me
@@ -17,3 +9,10 @@ I'm a software developer intern. I'm passionate about creating beautiful and use
 ❤️ I love writing HTML and CSS, and building fun experiments on type-level and also love doing the technical side of the work.
 
 📫 How to reach me ** Email: Lombardclinton40@gmail.com & Whatsapp +27 617128304.
+
+👋 Hi, Clinton Lombard
+👀 I’m interested in Blockchain development & System development
+💞️ I’m looking to collaborate on any Forex trading and blockchain related projects
+😄 Pronouns: ...
+⚡ Fun fact: ...
+-->
